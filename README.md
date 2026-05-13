@@ -1,3 +1,3 @@
 # kishansah-ISMT
-This is my first Git Repossitory
+This is my first Git Repository.
 Author - Kishan Kumar Sah 
